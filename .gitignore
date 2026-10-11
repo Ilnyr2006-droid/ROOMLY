@@ -1,0 +1,12 @@
+node_modules/
+.npm-cache/
+.e2e-data/
+.test-data/
+dist/
+coverage/
+playwright-report/
+test-results/
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+.DS_Store
