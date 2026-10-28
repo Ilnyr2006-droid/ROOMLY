@@ -1,0 +1,1 @@
+AI Dev Team Git access smoke test on 2026-10-29. This is an isolated feature-branch fixture; ROOMLY application files are unchanged.
